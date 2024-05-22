@@ -1,1 +1,1 @@
-# API de Pagamentos com Flask
+# API de Pagamentos com Flask.
